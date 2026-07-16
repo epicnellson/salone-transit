@@ -33,6 +33,10 @@ yarn-error.log*
 
 # dev logs
 dev.log
+ngrok.log
+
+# ngrok binary
+ngrok.exe
 
 # typescript
 *.tsbuildinfo
